@@ -1,0 +1,6 @@
+sendgrid API = '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'
+newsAPI API = '16f8562d339c462ba4c5863e27f39bca'
+
+#newsapi = NewsApiClient(api_key='16f8562d339c462ba4c5863e27f39bca')
+#t = threading.Thread(target=schedule)
+#t.start()
